@@ -21,8 +21,8 @@ Project has been created as Jupyter notebook hosted by Google Colaboratory (or C
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcin-ch/Apples_Oranges_Pears_Image_Classification_NL/blob/master/Apples_Oranges_Pears_Image_Classification_NL.ipynb)
 
 ## Model saved files
-* Once notebook operation is completed, new files related to model appear in the workspace (if not, please `Refresh`). It should look like as follows:<br>
-![model_saved_files](https://github.com/marcin-ch/Apples_Oranges_Pears_Image_Classification_NL/blob/master/model_saved_files.PNG)
+* Once notebook operation is completed, new files related to model appear in the workspace (if not, please `Refresh`). It should look like as follows:<br><br>
+![model_saved_files.png](https://github.com/marcin-ch/Apples_Oranges_Pears_Image_Classification_NL/blob/master/model_saved_files.PNG)<br><br>
   * *model_4layer1_FE.json* - model description
   * *model_4layer1_weights_FE.h5* - model weight values
   * *model_4layer1_full_FE.h5* - full model (weight values, model architecture, model's training configuration, the optimizer and its state, more info [here](https://www.tensorflow.org/tutorials/keras/save_and_load#hdf5_format) 
